@@ -7,13 +7,10 @@
 <br>
 
 - :school: Soy estudiante en Ing. en Sistemas Computacionales en la [Escuela Superior de Computo (ESCOM)](https://www.escom.ipn.mx/) en el [Instituto Politecnico Natural (IPN)]([http://suez.edu.eg/ar/](https://www.ipn.mx/)).
-- :trophy: 2x `ACPC` Finalist.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- :technologist: Me encanta poder usar la tecnología como solución para cada problema.
+- :student: Actualmente realizando certificado en `Google Cloud`.
+- :nerd_face: Siempre abierto a `Aprender cosas nuevas`.
+- :thinking: Actualmente buscando `job opportunity`.
 <br>
 
 
